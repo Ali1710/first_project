@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from models import Product
+from models11 import Product
 
 
 def home(request):
